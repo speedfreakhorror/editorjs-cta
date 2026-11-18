@@ -1,6 +1,6 @@
 {
   "name": "editorjs-cta",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A call-to-action block for Editor.js: an optional heading above a button the host places.",
   "private": false,
   "license": "MIT",

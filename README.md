@@ -5,7 +5,7 @@ A call-to-action block for Editor.js: an optional heading above a button the hos
 ## Install
 
 ```
-npm i github:Speedfreakhorror-Official/editorjs-cta
+npm i github:speedfreakhorror/editorjs-cta
 ```
 
 Import the tool and its stylesheet:
